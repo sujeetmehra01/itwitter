@@ -1,4 +1,4 @@
-# itwitter
+# Twitter Clone UI
 
 # Your site is live at https://sujeetmehra01.github.io/itwitter/
 
